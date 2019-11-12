@@ -1,6 +1,3 @@
-// Name: Muhammad Zeerak
-// Class: BSCS-8A
-// CMS ID: 267328
 /* Characteristics:
  * The JTable basically creates rows after filling data.
  * The file is created in desktop in which data from JTable is being saved.
