@@ -3,6 +3,7 @@
  * The file is created in desktop in which data from JTable is being saved.
  * If the data is clicked then text gets populated and update button updates it in JTable and in the file
 */
+//Importing different libraries to use their certain funtions in the code
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
